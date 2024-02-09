@@ -63,13 +63,9 @@ and project management and blockchain technology.
   target="_blank" rel="noreferrer"> <img 
   src="https://ci3.googleusercontent.com/meips/ADKq_NZQYbGbcaH5M23eCHW3sMuGT6t_GKYQdIB9bxEgdLRHh3pBpbxkrQ4rlCvqPDPbX-IaW_Q-wJbDK2xgUIU8LXZFJl0NKsIyWWkt0g=s0-d-e1-ft#https://hr-assets.s3.amazonaws.com/jobs/css_basic.png" alt="nextjs" width="40" height="40"/> </a>
 
-  <a href="http://email.postmaster.hackerrankmail.com/c/eJxskcGO3CAQRL-GOVrQbcAcfIhk-Tcs3DQ7yPZ4hPFO8vcRjrKaaHOk61FFNaF3xni4ca-sNNZBi_J27zuLLnY0O8utAQtkjY4xgkG2GiDeUg8SWglSKZQS2mZmKyOGaC2RdFaLVj73o2z-KJybu6eFc_aPZfNpbWjfbmt_L-Up8IeAUcD4er3eqEoIGCs8ZQ4pM5V6LlPJnhaBI-2Pwj-LwOGCCm_P1ReeFDqcoNUKoNUCzB_PKQWBw9t44V8Ch66zc9TkyHVuZuqUUSjJc6A5GGlsh1YrICfA_Jty2dWov8p5XqPAgNwF1JKjii1GqwAcRwzKEhAJMGUXONTqhwBd2-vaX_9_AxpG4lxSTOQLH9fAGYezDl5hJ6vFeJZt2jiks17AgeuDKmmqcOxnJr6E74v6oshvT58-Hhd3zzQdS1rXY3oLv-X-KPzJzcrcBP5EZUQrP77-s_Tf_X8HAAD__zINvi0" 
+  <a href="http://email.postmaster.hackerrankmail.com/c/eJxskcGOnDAQRL_Gc0R2t23oA4dIiN9Apt3sIGAYGbOT_H1koqwm2hzd9VzlaseWvA9wk9bU2luyvva3e2s81IEiscRxFAxGR0PRejKTUES4zS1osNoAaTC185U0k3HkoNaW0BhWVj_3I2_hyJKqe-BFUgqPZQvzWvG-3db2nvNT4Q8FvYL-9Xq9UYVQ0Bd4SBLnJJzLOQ85BV4U9rw_svzMCrsLyrI915BlMEg4gHUGwDoF_o_nMEeF3dt4kV8Ku6apx8kxMTU0CjfGG9QcJPIYvfZ1g7UzwKTA_5ty2ZWov8p5XiOP0ZhQNxjZNORoAkcRx4mBcBTRCnzeFXal-qHAlfau9Hf_34CDniXleZo5ZDmugUyovW1YR62LRX_mbdgkzme5gJ2UBxXSF-HYz8RyCd8X9UVx2J5h_nhc3D3xcCzzuh7DW_gttUeWT6lWkSrKJxqvrP74-s_cfvf_HQAA__8AQ731" 
   target="_blank" rel="noreferrer"> <img 
-  src="https://ci3.googleusercontent.com/meips/ADKq_NYKCqjCmEmzjpoXIwvnYnkQpCwPvzfDX_SJ8uEhcZxYCASgV1DeEmeNul6ZLT67GPZ5EIWtLKncp8HM9rrdLxoykw=s0-d-e1-ft#https://hrcdn.net/hrc_misc/SQL_adv_badge.png" alt="nextjs" width="40" height="40"/> </a>
-
-  <a href="http://email.postmaster.hackerrankmail.com/c/eJxskcGO3CAQRL-GOVrQbcAcfIhk-Tcs3DQ7yPZ4hPFO8vcRjrKaaHOk61FFNaF3xni4ca-sNNZBi_J27zuLLnY0O8utAQtkjY4xgkG2GiDeUg8SWglSKZQS2mZmKyOGaC2RdFaLVj73o2z-KJybu6eFc_aPZfNpbWjfbmt_L-Up8IeAUcD4er3eqEoIGCs8ZQ4pM5V6LlPJnhaBI-2Pwj-LwOGCCm_P1ReeFDqcoNUKoNUCzB_PKQWBw9t44V8Ch66zc9TkyHVuZuqUUSjJc6A5GGlsh1YrICfA_Jty2dWov8p5XqPAgNwF1JKjii1GqwAcRwzKEhAJMGUXONTqhwBd2-vaX_9_AxpG4lxSTOQLH9fAGYezDl5hJ6vFeJZt2jiks17AgeuDKmmqcOxnJr6E74v6oshvT58-Hhd3zzQdS1rXY3oLv-X-KPzJzcrcBP5EZUQrP77-s_Tf_X8HAAD__zINvi0" 
-  target="_blank" rel="noreferrer"> <img 
-  src="https://ci3.googleusercontent.com/meips/ADKq_NZQYbGbcaH5M23eCHW3sMuGT6t_GKYQdIB9bxEgdLRHh3pBpbxkrQ4rlCvqPDPbX-IaW_Q-wJbDK2xgUIU8LXZFJl0NKsIyWWkt0g=s0-d-e1-ft#https://hr-assets.s3.amazonaws.com/jobs/css_basic.png" alt="nextjs" width="40" height="40"/> </a>
+  src="https://ci3.googleusercontent.com/meips/ADKq_NaAZAkIOQ9IboC3wDl7Ff1Pf9yIIRRTycPL9uEElUEAIOY8lYIdgpPw_50LCdjbGGnutetKgK3p-Z7N4l9vuGKFHxZKHaAPWB7-pIl-zix0nwiyNt3vPw=s0-d-e1-ft#https://hr-assets.s3.amazonaws.com/jobs/problem_solving_basic.png" alt="nextjs" width="40" height="40"/> </a>
 
   </p>
 
