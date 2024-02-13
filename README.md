@@ -45,10 +45,8 @@ and project management and blockchain technology.
 
   <h3 align="left">HackerRank Certification:</h3>
   <p align="left">
-<a href="http://email.postmaster.hackerrankmail.com/c/eJxskcGO3CAQRL-GOVrQbcAcfIhk-Tcs3DQ7yPZ4hPFO8vcRjrKaaHOk61FFNaF3xni4ca-sNNZBi_J27zuLLnY0O8utAQtkjY4xgkG2GiDeUg8SWglSKZQS2mZmKyOGaC2RdFaLVj73o2z-KJybu6eFc_aPZfNpbWjfbmt_L-Up8IeAUcD4er3eqEoIGCs8ZQ4pM5V6LlPJnhaBI-2Pwj-LwOGCCm_P1ReeFDqcoNUKoNUCzB_PKQWBw9t44V8Ch66zc9TkyHVuZuqUUSjJc6A5GGlsh1YrICfA_Jty2dWov8p5XqPAgNwF1JKjii1GqwAcRwzKEhAJMGUXONTqhwBd2-vaX_9_AxpG4lxSTOQLH9fAGYezDl5hJ6vFeJZt2jiks17AgeuDKmmqcOxnJr6E74v6oshvT58-Hhd3zzQdS1rXY3oLv-X-KPzJzcrcBP5EZUQrP77-s_Tf_X8HAAD__zINvi0" 
-  target="_blank" rel="noreferrer"> <img 
+<a href="https://www.hackerrank.com/certificates/ec893ecfcf19" target="_blank" rel="noreferrer"> <img 
   src="https://ci3.googleusercontent.com/meips/ADKq_NZQYbGbcaH5M23eCHW3sMuGT6t_GKYQdIB9bxEgdLRHh3pBpbxkrQ4rlCvqPDPbX-IaW_Q-wJbDK2xgUIU8LXZFJl0NKsIyWWkt0g=s0-d-e1-ft#https://hr-assets.s3.amazonaws.com/jobs/css_basic.png" alt="nextjs" width="40" height="40"/> </a>
-  
   </p>
 
   
