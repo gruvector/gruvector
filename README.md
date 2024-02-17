@@ -43,10 +43,6 @@ and project management and blockchain technology.
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-  <h3 align="left">HackerRank Certification:</h3>
-  <p align="left">
-<a href="https://www.hackerrank.com/certificates/ec893ecfcf19" target="_blank" rel="noreferrer"> <img 
-  src="https://ci3.googleusercontent.com/meips/ADKq_NZQYbGbcaH5M23eCHW3sMuGT6t_GKYQdIB9bxEgdLRHh3pBpbxkrQ4rlCvqPDPbX-IaW_Q-wJbDK2xgUIU8LXZFJl0NKsIyWWkt0g=s0-d-e1-ft#https://hr-assets.s3.amazonaws.com/jobs/css_basic.png" alt="nextjs" width="40" height="40"/> </a>
-  </p>
+  
 
   
