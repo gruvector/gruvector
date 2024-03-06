@@ -25,6 +25,9 @@ and project management and blockchain technology.
 ![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/CI/CD-Circle_CI-informational?style=flat&logo=circleci&logoColor=white&color=3bac3a)
 
+<div align="center">
+<img src="./profile-season-animate.svg"/>
+</div> 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
