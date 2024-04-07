@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-I am a Full-Stack Engineer.
 I have over 7+ years of experience in Full stack & Blockchain technology development and IT consult.
 
 Passionate about launching, developing, and maintaining web and mobile projects requiring a
