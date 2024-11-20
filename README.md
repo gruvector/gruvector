@@ -8,7 +8,6 @@ back-end development, mobile app development, system and application security, a
 and project management and blockchain technology.
 
 <div align="center">
-<img src="./profile-season-animate.svg"/>
 </div> 
 
 <h3 align="left">Languages and Tools:</h3>
