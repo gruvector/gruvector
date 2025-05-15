@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I have over 7+ years of experience in Full stack & Blockchain technology development and IT consult.
+I have over 7+ years of experience in Full stack & Blockchain tech development and IT consult.
 
 Passionate about launching, developing, and maintaining web and mobile projects requiring a
 broad yet experienced skillset. Intuitive problem-solving skills and proficient in front and
@@ -8,7 +8,7 @@ back-end development, mobile app development, system and application security, a
 and project management and blockchain technology.
 
 <div align="center">
-</div> 
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -26,7 +26,3 @@ and project management and blockchain technology.
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-  
-
-  
